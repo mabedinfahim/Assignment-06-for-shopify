@@ -119,3 +119,33 @@ img{
     width: 40%;
     margin-left: 20px;
 }
+
+.feature-section{
+    margin-bottom: 40px;
+}
+
+.col-4{
+    width:30%;
+    padding:50px 20px;
+    border-radius:5px;
+}
+
+.col-4 img{
+    width:100%;
+    height:25vh;
+}
+
+.col-4 h4{
+    padding: 10px 0px;
+}
+
+.content-1{
+    background: rgb(251, 236, 238);
+}
+.content-2{
+    background: rgb(192, 241, 192);
+}
+.content-3{
+    background: rgb(240, 240, 192);
+}
+
