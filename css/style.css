@@ -150,3 +150,19 @@ img{
     background: rgb(240, 240, 192);
 }
 
+.footer{
+    background: #008AFF;
+    padding:30px 0px;
+    text-align:center;
+}
+
+.footer p{
+    color:rgb(196, 192, 192);
+}
+
+.footer p span{
+    color:white;
+}
+
+
+
