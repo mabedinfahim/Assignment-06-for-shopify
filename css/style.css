@@ -29,6 +29,9 @@ img{
 .justify-between{
     justify-content: space-between;
 }
+.justify-content{
+    justify-content:center;
+}
 .align-center{
     align-items: center;
 }
@@ -55,4 +58,51 @@ img{
 .menu li a{
     text-decoration: none;
     color:rgb(88, 88, 88);
+}
+
+.banner_section{
+ width:100%;
+ padding:50px 0px;
+}
+
+.banner_content{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.banner_content h1{
+    width: 350px;
+    margin: 0 auto;
+}
+
+.banner_content h1 span{
+    color: #008AFF;
+}
+
+.banner_content p{
+    padding-top: 20px;
+    padding-bottom:40px;
+    color:rgb(88, 88, 88);
+}
+
+.banner_content img{
+    width: 80%;
+}
+
+.project_section{
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.project_content{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.project_left_content{
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    border:1px solid black;
 }
