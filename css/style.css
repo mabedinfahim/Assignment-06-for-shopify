@@ -95,7 +95,8 @@ img{
 
 .project_section{
     width: 100%;
-    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-bottom: 80px;
 }
 
 .project_content{
@@ -121,7 +122,7 @@ img{
 }
 
 .feature-section{
-    margin-bottom: 40px;
+    margin-bottom: 80px;
 }
 
 .col-4{
